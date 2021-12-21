@@ -1,0 +1,10 @@
+{
+  "name": "auth-service",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.1.0"
+  },
+  "devDependencies": {
+    "serverless-bundle": "^1.3.3"
+  }
+}
